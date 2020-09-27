@@ -13,7 +13,6 @@ C:\Users\Owner\source\repos\SniperBotCommander\prod\SniperBotCommander\Commander
 C:\Users\Owner\source\repos\SniperBotCommander\prod\SniperBotCommander\CommanderBot\obj\Debug\netcoreapp3.1\CommanderBot.g.resources
 C:\Users\Owner\source\repos\SniperBotCommander\prod\SniperBotCommander\CommanderBot\obj\Debug\netcoreapp3.1\CommanderBot.AssemblyInfoInputs.cache
 C:\Users\Owner\source\repos\SniperBotCommander\prod\SniperBotCommander\CommanderBot\obj\Debug\netcoreapp3.1\CommanderBot.AssemblyInfo.cs
-C:\Users\Owner\source\repos\SniperBotCommander\prod\SniperBotCommander\CommanderBot\obj\Debug\netcoreapp3.1\CommanderBot.csproj.CoreCompileInputs.cache
 C:\Users\Owner\source\repos\SniperBotCommander\prod\SniperBotCommander\CommanderBot\obj\Debug\netcoreapp3.1\CommanderBot.dll
 C:\Users\Owner\source\repos\SniperBotCommander\prod\SniperBotCommander\CommanderBot\obj\Debug\netcoreapp3.1\CommanderBot.pdb
 C:\Users\Owner\source\repos\SniperBotCommander\prod\SniperBotCommander\CommanderBot\obj\Debug\netcoreapp3.1\CommanderBot.genruntimeconfig.cache

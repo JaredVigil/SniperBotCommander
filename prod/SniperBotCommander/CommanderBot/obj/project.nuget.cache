@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "MLhqPJIg7aZSPRNYG+0iDFU60qABIKyDkGnVo4QyEnYLXEnnz2pQyj1w/sD/uHzK+fks/vdS+3nhPqFX/dxi6w==",
+  "dgSpecHash": "az+6DIJ2MlaHLj07P6QAmWtU0dFm8n36m472sbV/43hJOaSr+OBR4MVcuYgMloNvFuHjeW6iZUATWpt2Cwks7A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Owner\\source\\repos\\SniperBotCommander\\prod\\SniperBotCommander\\CommanderBot\\SniperBot.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Owner\\source\\repos\\SniperBotCommander\\prod\\SniperBotCommander\\CommanderBot\\CommanderBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.aspnet.signalr.client\\2.4.1\\microsoft.aspnet.signalr.client.2.4.1.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
