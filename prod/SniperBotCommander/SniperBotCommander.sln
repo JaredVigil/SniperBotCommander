@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotterBot", "SpotterBot\Sp
 		{253B2C23-1256-4A15-94CE-0BB3AC4124D0} = {253B2C23-1256-4A15-94CE-0BB3AC4124D0}
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnipperBot", "SnipperBot\SnipperBot.csproj", "{5AC9040A-9E04-4AD0-AAA8-ED009A4409B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{1A3E33BF-C341-4194-87D8-E5611FEB0581}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A3E33BF-C341-4194-87D8-E5611FEB0581}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A3E33BF-C341-4194-87D8-E5611FEB0581}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AC9040A-9E04-4AD0-AAA8-ED009A4409B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AC9040A-9E04-4AD0-AAA8-ED009A4409B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AC9040A-9E04-4AD0-AAA8-ED009A4409B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AC9040A-9E04-4AD0-AAA8-ED009A4409B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
