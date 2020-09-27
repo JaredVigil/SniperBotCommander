@@ -1,0 +1,9 @@
+C:\Users\Owner\source\repos\SniperBotCommander\prod\SniperBotCommander\SharedResources\bin\Debug\netcoreapp3.1\SharedResources.deps.json
+C:\Users\Owner\source\repos\SniperBotCommander\prod\SniperBotCommander\SharedResources\bin\Debug\netcoreapp3.1\SharedResources.dll
+C:\Users\Owner\source\repos\SniperBotCommander\prod\SniperBotCommander\SharedResources\bin\Debug\netcoreapp3.1\SharedResources.pdb
+C:\Users\Owner\source\repos\SniperBotCommander\prod\SniperBotCommander\SharedResources\obj\Debug\netcoreapp3.1\SharedResources.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\SniperBotCommander\prod\SniperBotCommander\SharedResources\obj\Debug\netcoreapp3.1\SharedResources.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\SniperBotCommander\prod\SniperBotCommander\SharedResources\obj\Debug\netcoreapp3.1\SharedResources.AssemblyInfo.cs
+C:\Users\Owner\source\repos\SniperBotCommander\prod\SniperBotCommander\SharedResources\obj\Debug\netcoreapp3.1\SharedResources.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\SniperBotCommander\prod\SniperBotCommander\SharedResources\obj\Debug\netcoreapp3.1\SharedResources.dll
+C:\Users\Owner\source\repos\SniperBotCommander\prod\SniperBotCommander\SharedResources\obj\Debug\netcoreapp3.1\SharedResources.pdb
